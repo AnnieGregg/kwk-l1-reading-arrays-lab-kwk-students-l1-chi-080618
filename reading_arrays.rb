@@ -16,7 +16,7 @@ first_student_by_index
 def fourth_student_by_index
   return STUDENT_NAMES[3] 
 end 
-end
+
 fourth_student_by_index
 
 return STUDENT_NAMES.first
